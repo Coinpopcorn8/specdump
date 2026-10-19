@@ -1,0 +1,15 @@
+# Generated reports contain hostnames, MAC addresses and serial numbers
+pc_info_*.txt
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
